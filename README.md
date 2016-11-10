@@ -17,4 +17,4 @@ Note:
 必須條件:.NetFramewrk4.0+  
 
 # Donate RiCoReader  
-<a href="https://p.allpay.com.tw/2U8qr"><img src="https://payment.allpay.com.tw/Content/images/pay_01B.jpg" /></a>   
+<a href="https://p.allpay.com.tw/sYHO3"><img src="https://payment.allpay.com.tw/Content/themes/WebStyle201404/images/allpay.png" /></a>  
