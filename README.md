@@ -16,5 +16,4 @@ Note:
 擷取檔案內容文字，所有圖像均不支援  
 必須條件:.NetFramewrok4.0+  
 
-# Donate RiCoReader  
-<a href="https://payment.allpay.com.tw/Broadcaster/Donate/5A3C24FE1659B60BE2657521F28AEFB4" target="_blank"><img src="https://payment.allpay.com.tw/Content/themes/WebStyle201404/images/allpay.png" /></a>
+
